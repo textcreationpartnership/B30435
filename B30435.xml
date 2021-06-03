@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tears of the press, with reflections on the present state of England</title>
+         </titleStmt>
+         <extent>Approx. 32KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B30435</idno><idno type="EEBO-CITATION">11950326</idno>
+  <idno type="VID">199431</idno>
+  <idno type="EEBO-PROQUEST">2240918154</idno>
+  
+            <idno type="STC">Wing T609</idno>
+            <idno type="OCLC">11950326</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B30435)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199431)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 516:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tears of the press, with reflections on the present state of England</title>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Richard Janeway ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Press --  England --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:199431:1"/>
+            <p>THE TEARS OF THE PRESS, WITH REFLECTIONS ON THE Present State OF ENGLAND.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be sold by <hi>Richard Janeway</hi> in <hi>Queens-Head Alley</hi> in <hi>Pater-Noster-Row,</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:199431:2"/>
+            <pb n="1" facs="tcp:199431:2"/>
+            <head>THE TEARS OF THE PRESS.</head>
+            <p>THE <hi>Press</hi> might be employed against or for it self, according to the Good or Hurt its Labors have spread abroad in the World. Look on them on the one side, you will confess the Tears of the <hi>Press</hi> were but the Livery of its Guilt; nor is the Paper more stain<g ref="char:EOLhyphen"/>ed than Authors or Readers. The Invention of <hi>Printing,</hi> whether as mischievous as that of Guns is doubtful: The Ink hath Poyson in it, the Historian as well as Naturalist will confess:
+<pb n="2" facs="tcp:199431:3"/>For Empannel a Jury of Inquest, whence Learn<g ref="char:EOLhyphen"/>ing or Religion hath been poysoned, and, <hi>Scri<g ref="char:EOLhyphen"/>bendi Cacoethes,</hi> dabling in Ink will be found Guilty: For,</p>
+            <p>Learning hath Surfeited us; for amongst o<g ref="char:EOLhyphen"/>ther Excesses, that of Learning may Surfeit us according to <hi>Tacitus,</hi> and this was true before Printing, when the Cure of the Disease (most are sick <hi>(nisi te scire hec sciat alter)</hi> of Publish<g ref="char:EOLhyphen"/>ing; which was harder by reason of Laborious Transcription, Vanity or Contradictions, Em<g ref="char:EOLhyphen"/>ploying the Pen even then. Of the former, let <hi>Dydimus</hi> the Grammarian lead the Van, of whom <hi>Seneca</hi> saith, <hi>Quatuor millia Librorum scripsit, miser si tam multa supervacua legisset,</hi> That he wrote 4000 Books, miserable Man if he had read so many Pam<g ref="char:EOLhyphen"/>plets; and in those Controversies about <hi>Homer</hi>'s Country, whether <hi>Anacreton</hi> offended more in In<g ref="char:EOLhyphen"/>continence or Intemperance, <hi>&amp;c.</hi> most of them being stuffed with such, or Grammatical Que<g ref="char:EOLhyphen"/>stions: A Disease continued, if not increased since <hi>Printing,</hi> two much declining things, for the Declension of Words. Witness such labo<g ref="char:EOLhyphen"/>rious Works in <hi>Criticisms</hi> needless. (I asperse not the wise Choice of useful <hi>Quaeries</hi> in that
+<pb n="3" facs="tcp:199431:3"/>Study) The Result, it may be, of many Pages, is the Alteration of a Word or Letter, its Ad<g ref="char:EOLhyphen"/>dition, or Substraction. O painful Waste Pa<g ref="char:EOLhyphen"/>per! How empty is the <hi>Press</hi> oft-times when fullest? Empty, we must acknowledge that which Vanity filleth, as we may well think, when it issueth some Poetick Legend of some Love Mar<g ref="char:EOLhyphen"/>tyr, or some Pious Romance, of more than Saints ever did, or some Fool, busied about Government, in the Neglect of his own Affairs and Sphere. What Pamphlets these Late Times hath swarmed with, the Studious Shop-keeper knoweth, who spendeth no small time at the Bulk in reading and censuring Modern Controversies or News; and will be readier to tell you what the Times lack, than to ask you what you lack. We live in an Age wherein was never less Quar<g ref="char:EOLhyphen"/>ter given to Paper. Should <hi>Bocaline</hi>'s Parlia<g ref="char:EOLhyphen"/>ment of <hi>Parnassus</hi> be called among us, I fear our Shops would be filled with Printed, Waste Paper, condemned to Tobacco, Fruit, <hi>&amp;c.</hi> Hardly any Cap-Paper would be in use, till that of Legends, Pamphlets, <hi>&amp;c.</hi> were spent. How justly may we take up that Complaint in <hi>Strad. lib.</hi> 1. <hi>Praelect.</hi> 1. wherein he brings in Prin<g ref="char:EOLhyphen"/>ters,
+<pb n="4" facs="tcp:199431:4"/>complaining against Riming (Poetick they would be called) Pedlers into the <hi>Press; Qui<g ref="char:EOLhyphen"/>que noctu somniant, boec mane lucem videre illico gestiant,</hi> already what Danger are we in of eat<g ref="char:EOLhyphen"/>ing up Antichrist confuted in the Bottom of a Pie? Or to light Tobacco with the dark <hi>Hold<g ref="char:EOLhyphen"/>ings Forth</hi> of New Lights? To see the <hi>Antino<g ref="char:EOLhyphen"/>mian</hi> Hony-Comb holding Physick (at the Se<g ref="char:EOLhyphen"/>cond Hand) in a Stool-pan sure argueth a Sur<g ref="char:EOLhyphen"/>feit in the <hi>Press,</hi> that thus swarmeth with Vani<g ref="char:EOLhyphen"/>ty or Controversies; which is its worst Fault, as being the Mischief of a Sadder and engaging Consequence. Alas, what now is the <hi>Press</hi> but an Office of Contention, issuing rather Challen<g ref="char:EOLhyphen"/>ges than Books? When Pulpits grow hoarse with Railing, then doth this take up the Quar<g ref="char:EOLhyphen"/>rel, that oft admitteth of no Arbitrator, setting the World on Fire of Contention, Schism and Heresie; introducing Strife, Wars, and Blood<g ref="char:EOLhyphen"/>shed. Alas, how miserably is Truth torn by <hi>Antilogies,</hi> and little better than Scolding, and suffereth more by this Pen and Ink War, than by Pike and Blood-shed: By how much more captivating of Assent, Sophistry is than Success among reasoning Souls (that coming nearer
+<pb n="5" facs="tcp:199431:4"/>Reason, than Success, doth Justice) And we know Truth is oft watered by Martyrs Blood, receiving more Strength from the Red-Letter'd Days in an Almanack, than whole Tomes of <hi>Pro's</hi> and <hi>Con's.</hi> And what Truths, Politicks or News suffer by the <hi>Press,</hi> is Weekly expe<g ref="char:EOLhyphen"/>rienced: It is nothing to kill a Man this Week, and with Ink, instead of <hi>Aqua Vitae,</hi> fetch him Alive the next; to drown two Admirals in one Week, and to buoy them up again next; so that many of those Pamphelets, may be better termed, <hi>The Weekly Bills of Truths Mortallity,</hi> than Faithful Intelligences of Affairs.</p>
+            <p>Nor fareth it better with Peace than Truth; the Feathers and Plume seconding the Quarrel of the Quill, from Inveighings to Invadings, Declarations to Defiance, Remonstrances to Re<g ref="char:EOLhyphen"/>sistance; and that to Blood.</p>
+            <p>The <hi>Press</hi> rippeth up the Faults and Disgra<g ref="char:EOLhyphen"/>ces of a Nation, and then the Sword the Bow<g ref="char:EOLhyphen"/>els of it. What Printing beginneth by way of Challenge, its Contemporary Invention, Guns, answers in <hi>Destruction Accents.</hi>
+            </p>
+            <p>And the enormities of the <hi>Press</hi> are caus'd part<g ref="char:EOLhyphen"/>ly by Writers, and partly by Readers.</p>
+            <pb n="6" facs="tcp:199431:5"/>
+            <p>Among Writers, some write to eat, as Beg<g ref="char:EOLhyphen"/>gars examine not the Vertues of Benefactors, but such as they hope or find able or willing, they ply; be they good or bad, wise men or Fools, so do they beg of any Theme that will sell, true or false, good or bad, in Rime or Prose, and that pitiful or passable; all is one, Ink must earn Ale, and it may be Three penny Ordinaries; write they must against Things or Men (if the Spirit of Contradiction prove Saleable) that they can neither master nor conquer; sparing neither <hi>Bacons, Harveys, Digbys, Browns,</hi> &amp;c. though naught else do they obtain, except such a Credit as he did that set <hi>Diana</hi>'s Temple on Fire, to per<g ref="char:EOLhyphen"/>petuate his Fame.</p>
+            <p>Another sort are discoverers of their affections, by taking up the Cudgels on one side or other; and it is come to that now, that Author scarce pas<g ref="char:EOLhyphen"/>eth, that writeth not <hi>Controversies, Ecclesiastical, Po<g ref="char:EOLhyphen"/>litical,</hi> or <hi>Philosophical;</hi> though far better it were for publick good there were more (deserving the Name of <hi>Johannes de Indagine</hi>) progressive Pio<g ref="char:EOLhyphen"/>neers in the Mines of Knowledge, than Controver<g ref="char:EOLhyphen"/>ters of what is sound; it would lessen the Number of <hi>Conciliators,</hi> which cannot themselves now write
+<pb n="7" facs="tcp:199431:5"/>but as engagedly byassed to one side or other; but hese are <hi>Desiderata vereor semper desideranda,</hi> hings wanting, and to be desired (I fear) for ever.</p>
+            <p>A Second Cause of the Enormities of the Press, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re Buyers, the Chapman's Vanity, and weakness of Choice, maketh the Mart of less worthy Books the bigger. Such is the Fate of Books, as of other Ware, the courser the Ware, the more the Seller getteth by it: Examine the Truth, and it will <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>oo evidently appear, that in these times the Book<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eller hath frequently got the most, by those Books <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hat the Buyer hath got least, being not only the <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uck of <hi>Rablais</hi>'s Bookseller, that was a Loser by <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>is Book of <hi>Seneca,</hi> and Judgment, but abun<g ref="char:EOLhyphen"/>dantly repaired by that Ingenious Nothing, <hi>The Life of Garagantua</hi> and <hi>Pantagruel.</hi> What Age e<g ref="char:EOLhyphen"/>ver brought forth more, or bought more Printed Waste Paper? To read which, is the worst spend<g ref="char:EOLhyphen"/>ing of Time (next the making them) and the greater price given for them, and far above their Worth.</p>
+            <p>But the Distemper of the Press being so vari<g ref="char:EOLhyphen"/>ous and hazardous, what Cures can we pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ose?</p>
+            <p>Why truly, for them in <hi>Fieri,</hi> no such Cor<g ref="char:EOLhyphen"/>recting
+<pb n="8" facs="tcp:199431:6"/>the <hi>Press,</hi> as breaking it; but the chief<g ref="char:EOLhyphen"/>est Help is <hi>Prophylactical,</hi> a Care preservatory; also an <hi>Index Expurgatorius</hi> of Vanity and Whim<g ref="char:EOLhyphen"/>sies, would save Paper from being so stained, and would keep it from Burning (it may be) by the Common Hangman, and so a Nation less molested, idle persons better employed: But not to make our Eyes sore by only looking on the Hurt, let us turn them on the Benefits of a well Employed <hi>Press,</hi> and then we shall see it a Mint of solid worth, the good it hath done (and yet may do) being inestimable; It is Truth, Armo<g ref="char:EOLhyphen"/>ry, the Book of Knowledge, and Nursery of Re<g ref="char:EOLhyphen"/>legion; a Battering Ram to destroy and Over<g ref="char:EOLhyphen"/>throw the Mighty Walls of Heresie and Error, and also communicative of all wholesome Learning and Science, and never suffering a want of the Sincere Milk of the Word, nor <hi>Piety's Practice</hi> to be out of Print (and that not only in one Book) constantly issuing out <hi>Helps</hi> to <hi>Doing,</hi> as well as knowing our Duty: But the worth of the Ware-House will be best known by the Wares, which are Books, which will herein ap<g ref="char:EOLhyphen"/>pear; which also no prudent man will deny that they are.</p>
+            <pb n="9" facs="tcp:199431:6"/>
+            <p>For Company, good Friends; in Doubts, Counsellors; in Damps, Comforters; Times Prospective; the Home Traveller's Ship or Horse, the busie Man's best Recreation, the <hi>Opiate</hi> of Idle Weariness, the Minds best <hi>Ordinary,</hi> Natures <hi>Garden</hi> and <hi>Seed-Plot</hi> of <hi>Immortality;</hi> Time spent needlesly from them is consumed; but with them twice gained; <hi>Time</hi> captivated and snatched from a Man by Incursions of Business; <hi>Thefts</hi> or <hi>Visitants,</hi> or by one's own <hi>Carelessness</hi> lost, is by these redeemed in Life; they are the Souls <hi>Viati<g ref="char:EOLhyphen"/>cum,</hi> and against <hi>Death</hi> a <hi>Cordial.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:199431:7"/>
+            <pb facs="tcp:199431:7"/>
+            <head>TO THE READER.</head>
+            <p>POor <hi>England</hi> resembles a Ship Tossed with many Turbulent Waves, perpetually in danger of Ship<g ref="char:EOLhyphen"/>wrack, greatly to be pityed, in that <hi>Rome</hi> and <hi>Hell</hi> Combine against its Felicity, with respect to its Religion and Property; in the one, to over-throw God's Honour; in the other, to put a period to our Prosperity, desiring to make us miserable in the loss of our Estates; or which is Worse, in the loss of our Souls: In the one, aim<g ref="char:EOLhyphen"/>ing to Divest us of our Rights; in the other, to Deprive us of our Salvation: Our Estates they would have, but they will not abate of our Souls in the Bargain. But to our good, has the Mercy of God Disappointed them, and Preserved us, notwithstanding their Plots cunningly laid and devised on the one part of Destroy us; but failing there, on the other to Defame and Incense us, in Wronging the <hi>Presbyterians</hi> with False Accusations, and endeavou<g ref="char:EOLhyphen"/>ring to Incense us against them with Unjust Prejudices.
+<pb facs="tcp:199431:8"/>But both have Thriven alike, <hi>viz.</hi> The one being disco<g ref="char:EOLhyphen"/>vered before put in Execution, and so hindred; the other detected timely, and so quashed; the like fortune hath befel their further Designes. But what effect these growing Conspiracies may produce, we know not; our Ene<g ref="char:EOLhyphen"/>mies being restless to Disturb and Subvert us; and our Escape seeming Dangerous and Doubtful: But however our Industry on our part is required, success in Gods hands alone is; we must therefore work in doing our part with Diligence, and wait on God with Patience; for at pre<g ref="char:EOLhyphen"/>sent our state looks darksome, as it is endeavoured clearly to be Illustrated in this following Dialogue, between <hi>Jero<g ref="char:EOLhyphen"/>boam,</hi> an Ill-wisher to our Good and Prosperity; and one inclining to that Party that would destroy us, in empty<g ref="char:EOLhyphen"/>ing us of our present Enjoyments, and willing to make us Sin, in endeavouring to Proselyte us to themselves: The other is <hi>Jehu,</hi> one standing for the Nations Good, though it may be on a rotten bottom, affecting that in Notion, which he will not stand to in Reality; the Prolocutors re<g ref="char:EOLhyphen"/>presenting the present miserable state of the Nation; <hi>to wit,</hi> either inclined to Popery, or but Talking Protestants; the one which is professedly Naught, the others but seem<g ref="char:EOLhyphen"/>ingly Differing; the Protestants <hi>in corde,</hi> in their hearts, such are most certainly very scarce.</p>
+         </div>
+         <div type="dialogue">
+            <pb n="5" facs="tcp:199431:8"/>
+            <head>The Present <hi>State of England.</hi> Set forth in a DIALOGUE BETWEEN <hi>Jehu &amp; Ieroboam.</hi>
+            </head>
+            <sp>
+               <speaker>Jehu,</speaker>
+               <p>HOnest <hi>Jerry,</hi> how dost?</p>
+            </sp>
+            <sp>
+               <speaker>Jerry,</speaker>
+               <p>Oh honest! very good; but I'le assure thee, I am not over-loaden therewith: But what News? Ha!</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>Ah, sad News indeed! Poor <hi>England</hi> is Circumvented with Plots and Projects, for its Ruin; <hi>Rome, France, Hell</hi> and <hi>Devils,</hi> Combine to subvert its Prosperity!</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:199431:9"/>
+               <speaker>Jer.</speaker>
+               <p>Come, come; with all thy whyning Hi<g ref="char:EOLhyphen"/>pocrisy, pretending a sincerity of kindness for thy Country, but in very Truth intending no other than a narrow Spirit and Design, for thy self, in either being counted what thou art not, or have that confer'd on thee which thou never deserved'st.</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>Well mayst thou be called <hi>Jeroboam;</hi> for as on the one hand thou revilstest me, so on the other, thou art an irresistible incentive to my Passion; in Reviling me, thou art evil in stir<g ref="char:EOLhyphen"/>ing up my Wrath, thou thereby art a cause of my doing Ill; I tell thee my Passion against thee is so boiling, that could I find in my Heart to offer thee Violence.</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>Do thy worst; but I have touched thee to the quick, thou art struck in the right Vein of thy odious Hipocrisy, intending all <hi>John</hi> does, is for <hi>Johu</hi>'s Fame, Promotion, or Advan<g ref="char:EOLhyphen"/>tage.</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>But <hi>Jerry,</hi> be as slight and frivolous as thou wilt, in very Truth, I must tell thee, that <hi>England,</hi> at this present, is in no good Condi<g ref="char:EOLhyphen"/>tion.</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>
+                  <hi>Pish, Pish,</hi> Heed not every pragmatick Prater, that hardly any more than a <hi>Joynt-Stool,</hi>
+                  <pb n="7" facs="tcp:199431:9"/>understands the sentiments himself deli<g ref="char:EOLhyphen"/>vers, with respect to the safety or the danger of the Nation.</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>A way <hi>Jerry,</hi> with that thy scurrilous Asper<g ref="char:EOLhyphen"/>sion against our <hi>Sagaces,</hi> even those <hi>who are Pru<g ref="char:EOLhyphen"/>dent in foreseeing the evil that is coming upon us;</hi> be it known to thee, that our Nation is not so emp<g ref="char:EOLhyphen"/>ty (as thou falsly wouldst perswade me it is) of Men able to give out prudent Sentiments of the Aspect of Affairs. Nay, things look so gloo<g ref="char:EOLhyphen"/>my, as that an half-Eyed and witted Person may perceive.</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>
+                  <hi>Ha, Ha,</hi> Every prating Coxcomb, ha<g ref="char:EOLhyphen"/>ving no more Wit, than my Father's old Cap, tatling in a <hi>Coffee-House,</hi> must be counted <hi>Wise</hi> even to a States-man, though speaking as much Sense and Reason, as a <hi>Cobler</hi> or <hi>Carter,</hi> or as much as some such Fellows are usually Endow<g ref="char:EOLhyphen"/>ed with: Nay, some of them, it may be, of no higher, (at least-wise, not much higher) Fun<g ref="char:EOLhyphen"/>ction.</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>You do not well, I'le assure you, thus to scoff at every one Concerned at the present imminent Danger of our Nation; every one so concerned and speaking, is not a Fool.</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>And I believe, no Conjurer.</p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:199431:10"/>
+               <speaker>Jeh.</speaker>
+               <p>But because I am well acquainted with your thwarting Temper; waving this Argu<g ref="char:EOLhyphen"/>ment, let us between our selves seriously confer, and consider for our Satisfaction, or at leastwise my own, if thou art absolutely unconcerned, whether or no thy Native-Country prospers, or Groans under the most burthening Grievan<g ref="char:EOLhyphen"/>ces.</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>
+                  <hi>Jehu,</hi> I am perswaded, that should be greatly regarded by them in Place and Authori<g ref="char:EOLhyphen"/>ty, whose incumbent Duty it is: But know<g ref="char:EOLhyphen"/>ing thee to love Applause, and active in any thing whereby thy Itch of Ambition may be gratifyed; pray go forward in thy Discourse.</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>Those in Place, I grant herein to be concerned; therein thou speakest honestly: But however, we are not thereby ingaged to an absolute Unconcernedness, whether or no we Flourish or Decay. And as to thy heavy and injurious Loads, which thou imposest on me, I tell thee, Thou art here thy self guilty of that Guile, whereof thou so much accusest me; in<g ref="char:EOLhyphen"/>asmuch as thou (I am perswaded) art not wil<g ref="char:EOLhyphen"/>ling to <hi>touch as much as one of the least of them, with one of thy Fingers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:199431:10"/>
+               <speaker>Jer.</speaker>
+               <p>Say'st thou so, then in <hi>plain English</hi> I tell thee, take away applause, and the bot<g ref="char:EOLhyphen"/>tom of thy Zeal falls out, and then it will be cold, <hi>Jehu;</hi> but <hi>Jehu</hi> I know thee, in vain is it for thee to endeavour its Covert by Ly<g ref="char:EOLhyphen"/>ing, thou greatly affectest Ostentation, it is the very Basis of thy actions; thou art <hi>Cock-a-Hoop</hi> for this Man, that Man, this Party, the other; against this, for that; not for that such an one is an honest Man, and endea<g ref="char:EOLhyphen"/>vours the Nations good in the preservation of Religion, to which Hypocritically so much thou pretendest, and makest a noise about; But that <hi>Jehu, Jehu</hi> may have Acclamations; <hi>Oh Jehu</hi> is an honest Man, and a good Protestant!</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>Come, leave thy wonted flouting, and severe censuring, by looking into thy own Bosom, to see whether no vain Glory or Osten<g ref="char:EOLhyphen"/>tation there dwelleth.</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>Say on, what thou hast in mind to speak, feign would'st be at something where<g ref="char:EOLhyphen"/>by self-conceit in thee may be tickled, but know that I'le be none of thy Flatterers.</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>Well, but dost not think <hi>England</hi> to be brought to a low Ebb? dost not think it to be in danger of Popery?</p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:199431:11"/>
+               <speaker>Jer.</speaker>
+               <p>Do not talk of Danger of Popery many mens brains are at a low ebb, and so in danger of Folly.</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>Why certainly thou wilt not make pro<g ref="char:EOLhyphen"/>clamation of thy self to be such a Villain, with this discourse thou entertainest thy To<g ref="char:EOLhyphen"/>ry Companions, but take heed to what thou now sayest, or be it at thy Peril.</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>
+                  <hi>Pish Simpleton,</hi> I deny not a Popish Plot in general, but I believe we make more noise and stir than needs, I cannot think the Pa<g ref="char:EOLhyphen"/>pists in general to be so treacherous, therefore why should we be so obstreperous?</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>I know thee well to be a decliner to that wicked Party, but this would I demand; if in very deed their intentions of subverting the Government, and extirpating the Prote<g ref="char:EOLhyphen"/>stant Religion, are clearly manifested, and that by an harmonious testimony of several before engaged in their cursed Designs, and not holding a Correspondence together at that time, yet not disagreeing in their De<g ref="char:EOLhyphen"/>positions, but unanimously confessing the main Body of the Papists herein to be concerned?</p>
+            </sp>
+            <sp>
+               <pb n="11" facs="tcp:199431:11"/>
+               <speaker>Jer.</speaker>
+               <p>What man! Every Papist in <hi>England, Away, Away,</hi> be not so credulous.</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>Some Papists I exempt, in saying the main body of them, some it may be might be too poor to be trusted.</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>Admitting this, dost not think the <hi>Pres<g ref="char:EOLhyphen"/>byterians</hi> would easily be induced to be their Coadjutors?</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>No, by no means, although falsly and wickedly accused; which Sham-Plots have so plainly and perspicuously been detected, insomuch that nothing remains to be said, but <hi>Qui vult decipi dicipiatur;</hi> who is more Blind than he who will not see? who shall give heed to that wicked Woman Mrs. <hi>Cellier,</hi> or rather Devil Incarnate? Who shall believe her for the sake of the Bloody Blader? who shall give heed to such a piece of Jesuited antiquity, a peerless Match for Impudence and Confi<g ref="char:EOLhyphen"/>dence?</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>Who shall give heed to thee, so oppro<g ref="char:EOLhyphen"/>briously defaming? hath this Woman ever in<g ref="char:EOLhyphen"/>jured thee?</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>Yes, she hath me, inasmuch as she contrived the subversion of the Nation in ge<g ref="char:EOLhyphen"/>neral,
+<pb n="12" facs="tcp:199431:12"/>and so consequently of me, as I am a particular Member thereof.</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>Ay, thou art a special Member there<g ref="char:EOLhyphen"/>of, no more caring what becomes of it, than my Dog, so thy fat Carkass be not starved, nor thy full Coffers exhausted.</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>Oh most uncharitable Wretch, wouldst afford me no better Comparison than that of a Dog, in my love to my Countrey, loving nothing but my Interest, and what tends to its promotion? but <hi>Jeroboam,</hi> I know thee to be wicked; tell me I pray thee what is thy Opi<g ref="char:EOLhyphen"/>nion of famous Mr. <hi>Le</hi>-S—.</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>Oh Mr. <hi>Le</hi>-S— a worthy Gentle<g ref="char:EOLhyphen"/>man!</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>Of what, of a Rope?</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>Not as much as thy self.</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>Mr. <hi>Le</hi>-S— and such as he is, are the Rats and Mice of the Kingdom, disturb<g ref="char:EOLhyphen"/>ing and devouring; but he has lately defend<g ref="char:EOLhyphen"/>ed himself from the Charge of being either Papist or Jesuit, but let his Works Praise him.</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>Ay, and they do it better than thy Prating praiseth thee; But being we are a
+<pb n="13" facs="tcp:199431:12"/>little engaged in discourse, Prithee what dost hear of a Popish Successor? there is a migh<g ref="char:EOLhyphen"/>ty noise about it.</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>Ay, and no wonder, for if to such an one we were in Subjection, how could we expect our Liberty and Property to be in safety?</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>
+                  <hi>Ha!</hi> Dost not think him to be endow<g ref="char:EOLhyphen"/>ed with Nature, to love others, or at least him<g ref="char:EOLhyphen"/>self, to have a Prosperous and Quiet Reign over peaceable Subjects, though in Religion differing?</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>No verily, do I not believe any such thing.</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>But what if he will Promise it?</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>I will believe him, so far as I'le cre<g ref="char:EOLhyphen"/>dit any Man on the Word of a Papist.</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>Why Sir, a Papist; what has no Papist, dost think, either Truth, Conscience, or any thing in him looking like Religion, or Mo<g ref="char:EOLhyphen"/>ral honesty?</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>Ay, Ay, Religion and Honesty too, abundance of it they have, (that is) such as it is: their Religion instructs them to Ru<g ref="char:EOLhyphen"/>ine, Kill, Massacre Protestants under the name
+<pb n="14" facs="tcp:199431:13"/>of Hereticks; and their Honesty is to be faith<g ref="char:EOLhyphen"/>full amongst themselves, in their damnable Plots contrived in order hereunto, though it be managed with the vilest Perjuries, Lyes, most false Equivocations, and wretched'st Pro<g ref="char:EOLhyphen"/>testations, and that even at the hour of Death, in Vindication of the Church <hi>Catholick.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>Hie, Perjuries, Lies, Equivocations, and false Protestations! and that when in <hi>Punctum Mori,</hi> at the hour of Death, just entring ano<g ref="char:EOLhyphen"/>ther World, and so in themselves perswaded, and to us professing; and Christians too, though in a different Party from thy self, would at that solemn hour pawn their Con<g ref="char:EOLhyphen"/>sciencies, and relinquish their hopes of a bet<g ref="char:EOLhyphen"/>ter Life; what art Mad to talk thus? Dost not think them then <hi>bona fide</hi> to declare the very truth?</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>Come <hi>Jerry,</hi> be not Rash and Foo<g ref="char:EOLhyphen"/>lish, in the one by thinking to deceive me, in the other by aiming to Vindicate them; are not we well acquainted, that whatever is by them spoken in defence of their Church is Meritorious, and any Discovery against it is damnable, according to their Religious and
+<pb n="15" facs="tcp:199431:13"/>Honest Doctrine? though in very Truth their accounted Merit is Damnation, and a faithfull Discovery may through Gods Grace be a means of opening a door for Mercy.</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>But with all thy sence, prithee what expectations of Mercy could these men pre<g ref="char:EOLhyphen"/>tend to, thus dying, as thou with all thy Cha<g ref="char:EOLhyphen"/>rity judgest?</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>Only depending on a Popish Dispen<g ref="char:EOLhyphen"/>sation, which as they say, gives them Absolu<g ref="char:EOLhyphen"/>tion, as doubtlesly did <hi>Harcourt, Whitebread, Gavan, Turner, Fenwick,</hi> &amp;c. and my <hi>Lord Staf<g ref="char:EOLhyphen"/>ford</hi> since.</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>Pish, a mad Fellow art thou, to feed thy Fancy with such prejudicial imaginations; what dost not think them to be men of greater sence and Prudence than so?</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>No, it's well enough known, notwith<g ref="char:EOLhyphen"/>standing all their Sence, Reason, Wisdom and Prudence, that they were Members of the Romish <hi>Communion,</hi> embracing the wicked Te<g ref="char:EOLhyphen"/>nents of that Church; and that some of them were <hi>Priests</hi> and <hi>Jesuits,</hi> to whom it's natu<g ref="char:EOLhyphen"/>ral to Equivocate, and by practice can ma<g ref="char:EOLhyphen"/>nage it with the greatest Facility.</p>
+            </sp>
+            <sp>
+               <pb n="16" facs="tcp:199431:14"/>
+               <speaker>Jer.</speaker>
+               <p>Thou art so Obstinate, I know not what to say to thee; for me to go to perswade thee contrary to thy received Opinion, were to perswade thee to believe thou art not a man in substance and proportion, or that when thou shewest thy folly, to perswade thee to believe that therein thy self art not wise; two arguments of equal difficulty to manage; be<g ref="char:EOLhyphen"/>ing thy fears are so great of Popery, prithee tell me what thy Thoughts are concerning the <hi>Blazing-Star</hi> which lately appeared; does it not presage some considerable event short<g ref="char:EOLhyphen"/>ly to follow it?</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>Yea certainly.</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>And may not that be good as well as bad? may it not signifie that the <hi>D.</hi> of <hi>Y.</hi> shall reign many Years King of <hi>England,</hi> in case he survives his Majesty that now Governs, whom we all ought to pray for, that his Reign may be prosperous and long.</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>Ay <hi>Jerry,</hi> I believe that it may be<g ref="char:EOLhyphen"/>token such a thing as thou speakest of, but not before his Head and Face becomes as bright as the Star, and his Beard as long and full; the first to signifie his bright Illustrous
+<pb n="17" facs="tcp:199431:14"/>Innocency, and then the last follows in course, <hi>viz.</hi> his long reaching Dominions and Rule.</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>Well for all thy Scoffs, I tell thee plain<g ref="char:EOLhyphen"/>ly that thou art a Rascal, digest it as well as thou canst, I believe for thy part, if thou livedst under a Popish Government sooner for thy part wouldst Turn than Burn.</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>Burn Popery, I am perswaded if ever it comes into these Nations, it will not be, <hi>Will you turn Papist, or have your Carkass Fryed?</hi> No, but to Hack, Hew, Cut in pieces by sud<g ref="char:EOLhyphen"/>den Massacring.</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>And how dost think this will come to pass?</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>Nay, how should I tell? certainly by our remisness, and our Enemies Vigilancy; for they Watch for harm, whilst we sleep in se<g ref="char:EOLhyphen"/>curity as we vainly imagine.</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>What is requisite in Order to our Ene<g ref="char:EOLhyphen"/>mies disappointment, in thy Opinion, prithee?</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>Certainly, to understand our own Ma<g ref="char:EOLhyphen"/>ladies, to slight our Enemies Smiles, not to sup<g ref="char:EOLhyphen"/>pose them to rest, because they are not just now bussing.</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>Well, come we shall have something now.</p>
+            </sp>
+            <sp>
+               <pb n="18" facs="tcp:199431:15"/>
+               <speaker>Jeh.</speaker>
+               <p>And well too, thou mayest hear me if thou pleasest.</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>Go on.</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>If we understand not our Maladies, we can't apply suitable Remedies, and so our Disease may grow incurable; now the greatest Malady infecting <hi>England</hi> is Popery, which would be brought in; the effectual way of suppressing thereof, is indisputably by the una<g ref="char:EOLhyphen"/>nimous consent of King and Parliament, to<g ref="char:EOLhyphen"/>gether with good Officers, and Ministers of State being Elected, and the Cankered Po<g ref="char:EOLhyphen"/>pish turned out.</p>
+               <p>The other way is to slight our Enemies Smiles; better is the Frown of a Friend than the Smile of an Enemy; an Enemy smiles on us with his Forehead, but Murthers us in the <hi>interim</hi> in his Heart; his Smiles are Deceit and ruine, in that he cunningly looks like a Friend, that the better he may exert his En<g ref="char:EOLhyphen"/>mity; hence many are deceived, and most in<g ref="char:EOLhyphen"/>fallibly ruined; this is the reason why his intended Mischief appears not, though laid open never so clearly, by reason it is cloaked under a consident Smile, and pretension to
+<pb n="19" facs="tcp:199431:15"/>Amity, when in Reality there is nothing but an intention of Enmity, and the forest and grievous hurt.</p>
+               <p>By our resting from our Vigilancy against them because not alwayes Stirring, is dange<g ref="char:EOLhyphen"/>rous; for doubtless they lye slumbering that we may fall asleep, and thereby with the greater advantage they arise and devour us: But it is time for me to depart, I would have had some more discourse with thee, but the time permits not.</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>Why, art Departing? then I say <hi>Fare<g ref="char:EOLhyphen"/>well</hi> Mr. Statesman.</p>
+            </sp>
+            <sp>
+               <speaker>Jeh.</speaker>
+               <p>Well, and I say, pray be not such a professed Enemy to thy Self, Nation, and all: Do not make it thy business to run about to Disparage the Kings Evidences, to make void the Plot, to render it as a Ridi<g ref="char:EOLhyphen"/>cule; for I tell thee, <hi>England</hi> is in no good Condition, I fear.</p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>And so I believe thy Brains are, which run a wooll-gathering, to I know not what.</p>
+            </sp>
+            <sp>
+               <pb n="20" facs="tcp:199431:16"/>
+               <speaker>Jeh.</speaker>
+               <p>Some other things I had to say to thee in our Discourse, but I wave them; next time we meet, we may (by Divine leave) Discourse further; at the present, <hi>Farewell.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jer.</speaker>
+               <p>God b'w'ye.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
